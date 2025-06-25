@@ -3,7 +3,7 @@
 Welcome to my professional portfolio! This website showcases my experience as a Generative AI Engineer and Data Scientist.
 
 ## 🚀 Live Website
-Visit: [https://[your-username].github.io](https://[your-username].github.io)
+Visit: [https://EswarSaiKrish.github.io](https://EswarSaiKrish.github.io)
 
 ## 🛠️ Technologies Used
 - HTML5 with semantic markup
